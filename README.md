@@ -167,4 +167,4 @@ Key Python packages:
 ---
 
 
-If you want, I can also **add a quick-start GIF** showing the tool in action so the README looks more engaging. Would you like me to prepare that?
+
